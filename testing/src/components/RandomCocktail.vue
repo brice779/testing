@@ -15,7 +15,7 @@ let requestOptions = {
   redirect: "follow",
 };
 
-//This is a test aswell
+//This is a test 2
 
 
 function fetchRandomCocktail(){
